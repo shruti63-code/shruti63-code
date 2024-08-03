@@ -1,0 +1,6 @@
+- 👋 Hi, I’m shruti. 
+- 👀 I’m interested in creating mobile applications 
+- 🌱 I’m currently learning core Java  and android
+- 💞️ I’m looking to collaborate on different projects. 
+- 😄 Pronouns: She/her
+- ⚡ fact: working on my dreams

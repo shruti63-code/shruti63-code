@@ -7,5 +7,4 @@
 - Data Science intern
 - working on various techniques
 - learning new technologies and applications in industry
-- 
-- 
+- FINAL year Student at MIMIT malout

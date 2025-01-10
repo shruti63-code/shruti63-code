@@ -4,3 +4,8 @@
 - 💞️ I’m looking to collaborate on different projects. 
 - 😄 Pronouns: She/her
 - ⚡ fact: working on my dreams
+- Data Science intern
+- working on various techniques
+- learning new technologies and applications in industry
+- 
+- 

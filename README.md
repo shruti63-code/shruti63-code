@@ -1,10 +1,30 @@
 - 👋 Hi, I’m shruti. 
-- 👀 I’m interested in creating mobile applications 
-- 🌱 I’m currently learning core Java  and android
-- 💞️ I’m looking to collaborate on different projects. 
-- 😄 Pronouns: She/her
-- ⚡ fact: working on my dreams
-- Data Science intern
-- working on various techniques
-- learning new technologies and applications in industry
-- FINAL year Student at MIMIT malout
+- 🎓 Aspiring Data Scientist | Data Science Intern
+🌱 Passionate about turning raw data into actionable insights
+💻 Exploring Python, Machine Learning, and Data Visualization
+📊 Currently working on projects involving Pandas, NumPy, Matplotlib, Scikit-Learn, and TensorFlow
+🌟 Open to collaborating on real-world Data Science & Machine Learning projects
+
+🔧 Tech Stack
+
+Languages: Python, SQL, R, C, C++
+
+Libraries & Tools: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch
+
+Databases: MySQL, PostgreSQL, MongoDB
+
+Others: Git, Jupyter Notebook, Google Colab, Excel
+
+🚀 Projects
+
+📌 Customer Churn Prediction
+ – Built an ML model to predict telecom customer churn using Scikit-Learn.
+
+📌 Exploratory Data Analysis on COVID-19
+ – Analyzed trends and visualized global COVID-19 data using Pandas & Matplotlib.
+
+📌 Movie Recommendation System
+ – Implemented collaborative filtering to recommend movies to users.
+
+📌 Data Cleaning & Preprocessing Pipeline
+ – Automated preprocessing for large datasets.

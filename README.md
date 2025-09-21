@@ -29,8 +29,8 @@ Others: Git, Jupyter Notebook, Google Colab, Excel
 📌 Data Cleaning & Preprocessing Pipeline
  – Automated preprocessing for large datasets.
  
-📌 Sentiment Analysis
--
+📌 Sentiment Analysis on tweets
+-  Using NLP and Deep learning
 
 📌 Sales Forecasting  for product 
 - Using EDA and linear Regression

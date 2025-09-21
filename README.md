@@ -7,11 +7,11 @@
 
 🔧 Tech Stack
 
-Languages: Python, SQL, R, C, C++
+Languages: Python, SQL, C, C++
 
-Libraries & Tools: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch
+Libraries & Tools: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
 
-Databases: MySQL, PostgreSQL, MongoDB
+Databases: MySQL, MongoDB
 
 Others: Git, Jupyter Notebook, Google Colab, Excel
 
@@ -28,3 +28,9 @@ Others: Git, Jupyter Notebook, Google Colab, Excel
 
 📌 Data Cleaning & Preprocessing Pipeline
  – Automated preprocessing for large datasets.
+ 
+📌 Sentiment Analysis
+-
+
+📌 Sales Forecasting  for product 
+- Using EDA and linear Regression
